@@ -9,16 +9,16 @@ erstellt von Marie Sailer (ms594u@hdm-stuttgart.de)
 
 Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*. 
 
-# EDGE-Attribute
+# EDGE-Attribute#
 
 **id**  
 (eindeutige Codierung des Knoten)   
 
-**from**
-initiierender Knoten
+**Knoten 1**
+Knoten 1 der bestehenden Beziehung
 
-**to**
-erhaltender Knoten
+**Knoten 2**
+Knoten 2 der bestehenden Beziehung
 
 **relation**  
 1 = Leiter    
@@ -27,7 +27,7 @@ erhaltender Knoten
 4 = Kollegen
 
 **year**
-Numerischer Wert der Teilnahme nach Jahr
+Jahr der Teilnahme (Numerischer Wert)
 
 # NODE-Attribute  
 
@@ -49,7 +49,7 @@ numerische ID
 Ausgangspunkt der Realtity-TV-Karriere, Unterscheidung Bachelor und Bachelorette
 
 **year**
-Numerischer Wert der Teilnahme nach Jahr
+Jahr der Teilnahme (Numerischer Wert) 
 
 **place**
-Platzierung der jeweiligen Bachelor-/Bachelorettestaffel
+Platzierung der jeweiligen Bachelor-/Bachelorettestaffel (Numerischer Wert)
