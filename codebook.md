@@ -1,6 +1,6 @@
 # Datensatz Pretest Bachelor Netzwerk #
 Codebuch Stand 2023-01
-erstellt von Marie Sailer (ms594u@hdm-stuttgart.de)
+erstellt von Marie Sailer (ms594u), Anne Hartung, Emily Lang, Annika Piper
 
 ## Inhalt
 - Edges.csv (Edgelist)
