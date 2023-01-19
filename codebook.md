@@ -27,7 +27,7 @@ Knoten 2 der bestehenden Beziehung
 4 = Kollegen
 
 **year**
-Jahr der Teilnahme (Numerischer Wert)
+Jahr der Teilnahme
 
 # NODE-Attribute  
 
@@ -49,10 +49,10 @@ numerische ID
 Ausgangspunkt der Realtity-TV-Karriere, Unterscheidung Bachelor und Bachelorette
 
 **year**
-Jahr der Teilnahme (Numerischer Wert) 
+Jahr der Teilnahme
 
 **exit**
-Platzierung der jeweiligen Bachelor-/Bachelorettestaffel (Numerischer Wert)
+Platzierung der jeweiligen Bachelor-/Bachelorettestaffel 
 
 **age**
-Alter zum Zeitpunkt der Teilnahme (Numerischer Wert)
+Alter zum Zeitpunkt der Teilnahme 
