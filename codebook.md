@@ -51,5 +51,8 @@ Ausgangspunkt der Realtity-TV-Karriere, Unterscheidung Bachelor und Bachelorette
 **year**
 Jahr der Teilnahme (Numerischer Wert) 
 
-**place**
+**exit**
 Platzierung der jeweiligen Bachelor-/Bachelorettestaffel (Numerischer Wert)
+
+**age**
+Alter zum Zeitpunkt der Teilnahme (Numerischer Wert)
