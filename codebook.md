@@ -21,10 +21,7 @@ Knoten 1 der bestehenden Beziehung
 Knoten 2 der bestehenden Beziehung
 
 **relation**  
-1 = Leiter    
-2 = Mitglied    
-3 = Freunde
-4 = Kollegen
+Teilnahme 
 
 **year**
 Jahr der Teilnahme
@@ -39,7 +36,7 @@ numerische ID
 
 **type**  
 1 = Akteur
-2 = Organisation
+2 = Show
 
 **sex**
 1 = weiblich
