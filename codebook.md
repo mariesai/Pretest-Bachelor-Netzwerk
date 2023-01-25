@@ -9,7 +9,7 @@ erstellt von Marie Sailer (ms594), Anne Hartung (ah242), Emily Lang (el036), Ann
 
 Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*. 
 
-# EDGE-Attribute#
+# EDGE-Attribute #
 
 **id**  
 (eindeutige Codierung des Knoten)   
