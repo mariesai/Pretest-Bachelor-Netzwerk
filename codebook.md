@@ -12,16 +12,13 @@ Das Netzwerk ist ein *ungerichtetes two-mode Netzwerk*.
 # EDGE-Attribute #
 
 **id**  
-(eindeutige Codierung des Knoten)   
+(eindeutige Codierung des Knoten: erste beiden Buchstaben des Vor- und Nachnamen)   
 
 **Knoten 1**
 Knoten 1 der bestehenden Beziehung
 
 **Knoten 2**
 Knoten 2 der bestehenden Beziehung
-
-**relation**  
-Teilnahme 
 
 **year**
 Jahr der Teilnahme
